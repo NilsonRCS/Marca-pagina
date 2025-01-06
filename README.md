@@ -1,5 +1,11 @@
 # Marca-pagina
-Projeto consiste em um back-end básico em Go Lang, CRUD utilizando MVC 
+Projeto consiste em um back-end básico em Go Lang, CRUD utilizando MVC
+
+Recursos do Projeto
+  - Cadastro de Livros
+  - Listagem de livros
+  - Edição de livros
+  - Exclusão de livros
 
 utils > global errors:
   - Estrutura com campos de Messagem: Message, Erro: Err, Código do erro: Code, Causas: Causes
